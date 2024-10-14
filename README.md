@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @txc701
 - 👀 I’m interested in mathematics, cs, ai4s, agents & llms ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on basically, anything!
+- 💞️ I’m looking to collaborate on basically anything.
 - 📫 How to reach me Tangxichen080701@outlook.com
-- 😄 Pronouns: .
 - ⚡ Fun fact: my birthday is 1st Jul,2008
 
 <!---
